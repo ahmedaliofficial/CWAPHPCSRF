@@ -4,7 +4,7 @@ PHP CSRF TOKEN GENRATOR
 
 How to Genrate?
 
-first foo all CWA_Plugins/CsrfGenrate.php in your php code
+first of all CWA_Plugins/CsrfGenrate.php in your php code
 
 Your form. like That.
 
