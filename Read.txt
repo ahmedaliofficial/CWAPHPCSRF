@@ -1,6 +1,6 @@
 𝓒𝓸𝓭𝓮 𝓦𝓲𝓽𝓱 𝓪𝓱𝓶𝓮𝓭
 
-PHP CSRF TOKEN GENRATER
+PHP CSRF TOKEN GENRATOR
 
 How to Genrate?
 
